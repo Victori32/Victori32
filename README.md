@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor-Iulian!
 
-🚀 **AI Data Scientist | LLM Enthusiast ≈ AI Agent Developer | AI Engineer**  
+🚀 **AI Data Scientist | LLM Enthusiast | AI Agent Developer | AI Engineer**  
 
 🔍 Passionate about **Large Language Models (LLMs), AI agent development, and scalable AI solutions**—especially in **financial services**. Always exploring new ways to optimize and deploy **cutting-edge AI applications**.  
 

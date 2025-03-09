@@ -7,7 +7,7 @@
 ## 🛠️ Tech Stack & Skills  
 🔹 **Languages & Frameworks**: Python | NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow  
 🔹 **AI & ML**: Hugging Face | LangChain | CrewAI | LlamaIndex | OpenAI | Llama | Claude | DeepSeek  
-🔹 **Development & Cloud**: Flask | FastAPI | Gradio | Streamlit | IBM Cloud | Azure ☁  
+🔹 **Development & Cloud**: Flask | FastAPI | Gradio | Streamlit | IBM Cloud | Azure 
 🔹 **Tools & Collaboration**: GitHub | Slack | JupyterNotebook | Prompt Engineering   
 
 ## 🎓 Certifications & Learning  

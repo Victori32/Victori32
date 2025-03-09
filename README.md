@@ -1,4 +1,4 @@
----># 👋 Hi, I'm Victor-Iulian Pihureac!
+---># 👋 Hi, I'm Victor-Iulian!
 
 🚀 **AI Data Scientist | LLM Enthusiast ≈ AI Agent Developer | AI Engineer**  
 

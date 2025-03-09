@@ -24,8 +24,6 @@
 ✔️ Applied **prompt engineering** strategies for enhanced AI responses  
 
 ## 🔥 Projects  
-🗣️ **AI Chat App** – Integrated Ollama & DeepSeek R1 with Streamlit  
-🎯 **AI Career-Coach Web App** – Guiding career moves with LLMs  
 📊 **Fine-Tuning Course Tester** – Evaluating model adaptations for Deeplearning.AI  
 
 ## 📫 Let's Connect!  

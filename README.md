@@ -2,7 +2,7 @@
 
 🚀 **AI Data Scientist | LLM Enthusiast | AI Agent Developer | AI Engineer**  
 
-🔍 Passionate about **Large Language Models (LLMs), AI agent development, and scalable AI solutions**—especially in **financial services**. Always exploring new ways to optimize and deploy **cutting-edge AI applications**.  
+🔍 Passionate about **Large Language Models (LLMs), AI agent development, and scalable AI solutions. Always exploring new ways to optimize and deploy **cutting-edge AI applications**.  
 
 ## 🛠️ Tech Stack & Skills  
 🔹 **Languages & Frameworks**: Python 🐍 | NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow  

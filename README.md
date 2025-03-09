@@ -5,10 +5,10 @@
 🔍 Passionate about **Large Language Models (LLMs), AI agent development, and scalable AI solutions**—especially in **financial services**. Always exploring new ways to optimize and deploy **cutting-edge AI applications**.  
 
 ## 🛠️ Tech Stack & Skills  
-🔹 **Languages & Frameworks**: Python | NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow  
-🔹 **AI & ML**: Hugging Face | LangChain | CrewAI | LlamaIndex | OpenAI | Llama | Claude | DeepSeek  
-🔹 **Development & Cloud**: Flask | FastAPI | Gradio | Streamlit | IBM Cloud | Azure ☁️ 
-🔹 **Tools & Collaboration**: GitHub | Slack | JupyterNotebook | Prompt Engineering   
+🔹 **Languages & Frameworks**: Python 🐍 | NumPy | Pandas | Scikit-learn | PyTorch | TensorFlow  
+🔹 **AI & ML**: Hugging Face 🤗 | LangChain | CrewAI | LlamaIndex | GenAI (GPT-4o, Llama 3)  
+🔹 **Development & Cloud**: Flask | FastAPI | Gradio | Streamlit | IBM Cloud | Azure ☁️  
+🔹 **Tools & Collaboration**: GitHub | Slack | Jupyter | Prompt Engineering 🎯   
 
 ## 🎓 Certifications & Learning  
 📌 **AI Agents Fundamentals** – Hugging Face (Feb 2025)  
